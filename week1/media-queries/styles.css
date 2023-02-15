@@ -1,0 +1,43 @@
+.responsive {
+  background-color: darksalmon;
+  width: 500px;
+  height: 500px;
+}
+
+@media (min-width: 1000px) {
+  .responsive {
+    background-color: green;
+  }
+}
+
+@media (min-width: 650px) and (max-width: 999px) {
+  .responsive {
+    background-color: blue;
+  }
+}
+
+h1 {
+  font-size: 5vw;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+html {
+  /* font-size: 10px; */
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+li {
+  font-size: 2rem;
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 6px;
+  }
+}

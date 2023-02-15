@@ -1,0 +1,29 @@
+ul > li {
+  color: blue;
+}
+
+.purple-text > li {
+  color: purple;
+}
+
+p b {
+  font-size: 30px;
+}
+
+.adjacent p {
+  background-color: gold;
+}
+
+#this {
+  background-color: green;
+}
+
+#this + p {
+  background-color: coral;
+}
+
+h1,
+h2,
+h3 {
+  color: pink;
+}

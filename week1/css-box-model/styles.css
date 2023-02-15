@@ -1,0 +1,17 @@
+div {
+  background-color: red;
+  width: 500px;
+  height: 500px;
+  /* border-width: 30px;
+  border-color: aqua;
+  border-style: solid; */
+  /* border: 30px solid aqua; */
+  /* border-left: 30px dashed green; */
+  border-width: 10px 20px 30px 40px;
+  border-color: blue green;
+  border-style: dotted;
+  border-radius: 20%;
+  padding: 50px 10px;
+  box-sizing: border-box;
+  margin: 30px;
+}

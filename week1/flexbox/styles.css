@@ -1,0 +1,44 @@
+.big {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  /* align-content: flex-end; */
+}
+
+.small-1 {
+  align-self: center;
+  width: 80px;
+  height: 80px;
+}
+
+.small-2 {
+  width: 50px;
+  height: 90px;
+}
+
+.small-3 {
+  align-self: center;
+  flex-grow: 1;
+  width: 120px;
+  height: 80px;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
