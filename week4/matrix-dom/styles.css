@@ -1,0 +1,23 @@
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.matrix {
+  display: none;
+}
+
+.white {
+  background-color: white;
+}
+
+.get-feedback {
+  display: none;
+}
+
+.display-feedback {
+  display: none;
+}
